@@ -6,16 +6,14 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Aluna: Hyun Ji Lee
 
 
--Descricao do Projeto
-	- Ao inicio do jogo, o jogador e posicionado no inicio do labirinto no espaco
-	- Para navegar pelo labirinto, visualize as direcoes com a rotacao da cabeca
-	e clique em um cubo verde
-	- Para coletar as moedas e chave clique no objeto quando o círculo no meio da tela
-	piscar
-	- Existem 5 moedas escondidas no labirinto
-	- Existe 1 chave escondida no labirinto, sem ela voce nao podera finalizar o jogo
-	- Clique na porta para abri-la quando tiver coletado a chave para acessar o tesouro
-	- Clique na Placa You Win para finalizar o jogo e voltar ao inicio do jogo/labirinto
+### Descricao do Projeto
+- Ao inicio do jogo, o jogador e posicionado no inicio do labirinto no espaco
+- Para navegar pelo labirinto, visualize as direcoes com a rotacao da cabeca e clique em um cubo verde
+- Para coletar as moedas e chave clique no objeto quando o círculo no meio da tela piscar
+- Existem 5 moedas escondidas no labirinto
+- Existe 1 chave escondida no labirinto, sem ela voce nao podera finalizar o jogo
+- Clique na porta para abri-la quando tiver coletado a chave para acessar o tesouro
+- Clique na Placa You Win para finalizar o jogo e voltar ao inicio do jogo/labirinto
 
 -Nome da cena principal : Main - Only Scene
 
