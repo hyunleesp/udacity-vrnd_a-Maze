@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f2253f7e5b4c14d6ca1d63312bab36c1
+timeCreated: 1474228204
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - keyPoofPrefab: {instanceID: 0}
+  - keyPrefab: {instanceID: 0}
+  - door: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4259efea429e3458b997fe590ca4b9f1
+timeCreated: 1474228195
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinPrefab: {instanceID: 0}
+  - coinPoofPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 39f8a5a2b11c2426cb2a2bea3e825751
+timeCreated: 1474340167
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leftDoor: {instanceID: 0}
+  - rightDoor: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - lockedDoor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
