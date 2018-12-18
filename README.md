@@ -6,32 +6,22 @@ Starter project for the Udacity [VR Developer Nanodegree](http://udacity.com/vr)
 - Aluna: Hyun Ji Lee
 
 
--Descricao do Projeto
-	- Ao inicio do jogo, o jogador e posicionado no inicio do labirinto no espaco
-	- Para navegar pelo labirinto, visualize as direcoes com a rotacao da cabeca
-	e clique em um cubo verde
-	- Para coletar as moedas e chave clique no objeto quando o círculo no meio da tela
-	piscar
-	- Existem 5 moedas escondidas no labirinto
-	- Existe 1 chave escondida no labirinto, sem ela voce nao podera finalizar o jogo
-	- Clique na porta para abri-la quando tiver coletado a chave para acessar o tesouro
-	- Clique na Placa You Win para finalizar o jogo e voltar ao inicio do jogo/labirinto
+### Descricao do Projeto
+- Ao inicio do jogo, o jogador e posicionado no inicio do labirinto no espaco
+- Para navegar pelo labirinto, visualize as direcoes com a rotacao da cabeca e clique em um cubo verde
+- Para coletar as moedas e chave clique no objeto quando o cÃ­rculo no meio da tela piscar
+- Existem 5 moedas escondidas no labirinto
+- Existe 1 chave escondida no labirinto, sem ela voce nao podera finalizar o jogo
+- Clique na porta para abri-la quando tiver coletado a chave para acessar o tesouro
+- Clique na Placa You Win para finalizar o jogo e voltar ao inicio do jogo/labirinto
 
 -Nome da cena principal : Main - Only Scene
 
 -Versao do Unity: [Unity LTS Release 2017.4.4](https://unity3d.com/unity/qa/lts-releases?version=2017.4)
 
--Versão do GVR SDK for Unity : [GVR SDK for Unity v1.100.1](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.100.1)
+-VersÃ£o do GVR SDK for Unity : [GVR SDK for Unity v1.100.1](https://github.com/googlevr/gvr-unity-sdk/releases/tag/v1.100.1)
 
--Plataforma(s) de implantação prevista(s): Android 4.4 API 19 ou +Recente com Google Cardboard
-
-o FrameRate tava mto baixo, deixei os objetos estaticos, assei as luzes(baking),
-mudei shader do skybox para mobile > skybox > imagem de espaço, os shaders dos outros obj para mobile > (...), 
-alterei a música de fundo, 
-excluí as luzes, deixando somente o Sol,
-que agora é uma lua, alterei as partículas da fonte
-testei e o frameRate parece melhor...tem alguma forma de visualizar o frame rate 
-em numeros no editor do Unity?
+-Plataforma(s) de implantaÃ§Ã£o prevista(s): Android 4.4 API 19 ou +Recente com Google Cardboard
 
 ### About the Starter Project
 
